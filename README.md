@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreehariharan
 - 👀 I’m interested in New developments and technologues
-- 🌱 I’m currently learning Front_End Development
-- 💞️ I’m looking to collaborate on Front_End projects
+- 🌱 I’m currently learning Front-End Development
+- 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me shreestarkz@gmail.com
 
 <!---
